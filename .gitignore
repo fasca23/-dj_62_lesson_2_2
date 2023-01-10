@@ -1,0 +1,5 @@
+db.sqlite3
+env
+pagination/__pycache__
+station/__pycache__
+README.md
